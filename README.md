@@ -1,2 +1,5 @@
-# productimer
-A productivity app that keeps you accountable with your friends
+# Productimer
+A productivity app that keeps you accountable with your friends.
+
+#Setup
+let's go 
