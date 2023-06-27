@@ -19,7 +19,7 @@ The backend employed in this project encompasses MongoDB for the database, along
 -  First clone this repo
 
 ```bash
-git clone https://github.com/apoorvapendse/Medonor-O9.git
+git clone https://github.com/apoorvapendse/productimer.git
 cd productimer
 ```
 - Now install the required dependencies using npm
